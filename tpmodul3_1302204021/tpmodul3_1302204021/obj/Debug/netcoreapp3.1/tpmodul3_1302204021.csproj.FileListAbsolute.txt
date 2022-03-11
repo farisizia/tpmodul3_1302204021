@@ -1,0 +1,14 @@
+E:\semester 4\KPL\tpmod3\tpmodul3_1302204021\tpmodul3_1302204021\bin\Debug\netcoreapp3.1\tpmodul3_1302204021.exe
+E:\semester 4\KPL\tpmod3\tpmodul3_1302204021\tpmodul3_1302204021\bin\Debug\netcoreapp3.1\tpmodul3_1302204021.deps.json
+E:\semester 4\KPL\tpmod3\tpmodul3_1302204021\tpmodul3_1302204021\bin\Debug\netcoreapp3.1\tpmodul3_1302204021.runtimeconfig.json
+E:\semester 4\KPL\tpmod3\tpmodul3_1302204021\tpmodul3_1302204021\bin\Debug\netcoreapp3.1\tpmodul3_1302204021.runtimeconfig.dev.json
+E:\semester 4\KPL\tpmod3\tpmodul3_1302204021\tpmodul3_1302204021\bin\Debug\netcoreapp3.1\tpmodul3_1302204021.dll
+E:\semester 4\KPL\tpmod3\tpmodul3_1302204021\tpmodul3_1302204021\bin\Debug\netcoreapp3.1\tpmodul3_1302204021.pdb
+E:\semester 4\KPL\tpmod3\tpmodul3_1302204021\tpmodul3_1302204021\obj\Debug\netcoreapp3.1\tpmodul3_1302204021.csproj.AssemblyReference.cache
+E:\semester 4\KPL\tpmod3\tpmodul3_1302204021\tpmodul3_1302204021\obj\Debug\netcoreapp3.1\tpmodul3_1302204021.GeneratedMSBuildEditorConfig.editorconfig
+E:\semester 4\KPL\tpmod3\tpmodul3_1302204021\tpmodul3_1302204021\obj\Debug\netcoreapp3.1\tpmodul3_1302204021.AssemblyInfoInputs.cache
+E:\semester 4\KPL\tpmod3\tpmodul3_1302204021\tpmodul3_1302204021\obj\Debug\netcoreapp3.1\tpmodul3_1302204021.AssemblyInfo.cs
+E:\semester 4\KPL\tpmod3\tpmodul3_1302204021\tpmodul3_1302204021\obj\Debug\netcoreapp3.1\tpmodul3_1302204021.csproj.CoreCompileInputs.cache
+E:\semester 4\KPL\tpmod3\tpmodul3_1302204021\tpmodul3_1302204021\obj\Debug\netcoreapp3.1\tpmodul3_1302204021.dll
+E:\semester 4\KPL\tpmod3\tpmodul3_1302204021\tpmodul3_1302204021\obj\Debug\netcoreapp3.1\tpmodul3_1302204021.pdb
+E:\semester 4\KPL\tpmod3\tpmodul3_1302204021\tpmodul3_1302204021\obj\Debug\netcoreapp3.1\tpmodul3_1302204021.genruntimeconfig.cache
