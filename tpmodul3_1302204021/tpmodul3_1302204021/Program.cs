@@ -7,6 +7,10 @@
             KodePos table_Kodepos = new KodePos();
             System.Console.WriteLine("Keluarahan       Kode Pos");
             table_Kodepos.getKodePos();
+
+            System.Console.WriteLine("====== KunciPintu ======");
+            DoorMachine pintu = new DoorMachine();
+            pintu.kunci();
         }
 
     }
@@ -33,6 +37,38 @@
             {
                 System.Console.WriteLine("{0} \t {1}", ele1.Key, ele1.Value);
             }
+        }
+    }
+
+    class DoorMachine
+    {
+        enum State { Terkunci, Terbuka };
+        public void kunci()
+        {
+            State state = State.Terkunci;
+
+            System.String[] screenName = { "Pintu Terkunci", "Pintu tidak Terkunci" };
+            do
+            {
+                System.Console.WriteLine("" + screenName[(int)state]);
+                System.Console.Write("Masukan Command : ");
+                System.String command = System.Console.ReadLine();
+                switch (state)
+                {
+                    case State.Terbuka:
+                        if (command != "BukaPintu")
+                        {
+                            state = State.Terkunci;
+                        }
+                        break;
+                    case State.Terkunci:
+                        if (command != "KunciPintu")
+                        {
+                            state = State.Terbuka;
+                        }
+                        break;
+                }
+            } while (state != State.Terkunci);
         }
     }
 }
